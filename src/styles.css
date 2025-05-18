@@ -1,10 +1,10 @@
 body {
-  background-color: #f9f7fe;
+  background-color: #ffcef3;
   font-family: Helvetica, Arial, sans-serif;
 }
 
 a {
-  color: #885df1;
+  color: #512c96;
 }
 
 .container {
@@ -21,7 +21,7 @@ h1 {
   font-weight: 800;
   font-size: 36px;
   line-height: 1.5;
-  color: #272044;
+  color: #512c96;
 }
 
 form {
@@ -45,7 +45,7 @@ form {
 
 .submit-button {
   margin-left: 10px;
-  background: #885df1;
+  background: #cabbe9;
   color: white;
   border: none;
   width: 150px;
@@ -59,8 +59,9 @@ form {
   background-color: #fff;
   padding: 20px;
   line-height: 2;
-  border-left: 3px solid #885df1;
+  border-left: 3px solid #a1eafb;
   box-shadow: 0px 4px 30px 0px rgba(39, 33, 66, 0.03);
+  color: #512c96;
 }
 
 footer {
